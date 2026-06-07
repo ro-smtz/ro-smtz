@@ -42,7 +42,7 @@ Languages              Spanish (native) · English (advanced) · Italian (advanc
 
 ## Scientific communication
 
-I founded **[Ars Mathematica](https://ro-smtz.github.io/ars-mathematica)** in 2019 — a science communication project dedicated to the visual representation of physics, mathematics, and chemistry using LaTeX, TikZ, and PGFPlots. The project has grown to 70 K+ followers on Instagram and includes an educational website with courses, figure galleries, and tutorials.
+I founded **[Ars Mathematica](https://ro-smtz.github.io/ars-mathematica)** in 2019 — a science communication project dedicated to the visual representation of physics, mathematics, and chemistry using LaTeX, TikZ, and PGFPlots. The project has grown to [70 K+ followers on Instagram](https://www.instagram.com/ars_mathematica/) and includes an educational website with courses, figure galleries, and tutorials.
 
 > *Ars sine scientia nihil est.*
 
