@@ -17,6 +17,17 @@ Advisor: Dr. Giuseppe Pirruccio · Instituto de Física, UNAM (2024–present)
 - Thin-film fabrication: quantum dot synthesis, spin/dip coating, plasmonic crystals
 - Computational physics: Schrödinger equation (PDE/ODE solvers, diagonalization), quantum many-body methods
 
+## Current projects
+
+- **Polaritonic lasers in plasmonic microresonators**  
+  Experimental and theoretical investigation of exciton–photon coupling in semiconductor nanostructures.
+
+- **Computational tools for nanophotonics**  
+  Numerical modeling of optical modes, dispersion relations, and quantum systems.
+
+- **Ars Mathematica**  
+  Open educational platform for mathematics, physics, and scientific visualization.
+
 **Selected publications**
 
 | Year | Title | Journal |
