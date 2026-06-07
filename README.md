@@ -58,7 +58,6 @@ I founded **[Ars Mathematica](https://ro-smtz.github.io/ars-mathematica)** in 20
 ---
 
 ## Contact
-## Contact
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5713--3053-24292e?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5713-3053)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-R.%20Sánchez--Martínez-24292e?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=R.+Sánchez-Martínez+UNAM+polariton)
