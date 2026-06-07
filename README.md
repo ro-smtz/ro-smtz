@@ -1,6 +1,6 @@
 # Rodrigo Sánchez Martínez
 
-**PhD candidate in Physics** · Instituto de Física, UNAM · Mexico City
+**PhD candidate in Physics** · Advanced Nanophotonics Laboratory · Instituto de Física, UNAM
 
 I work on the optical properties of nanostructures and strong light–matter interaction at the Advanced Nanophotonics Laboratory, where my doctoral research focuses on **polaritonic lasers in microresonators** — systems where photons and excitons hybridize into new quasiparticles with engineered dispersion relations. My broader research background spans theoretical mechanics, quantum chemistry, and computational physics.
 
@@ -67,6 +67,15 @@ I founded **[Ars Mathematica](https://ro-smtz.github.io/ars-mathematica)** in 20
 | *(more coming)* | Research code, LaTeX templates, and paper supplements |
 
 ---
+
+## Contact
+
+For research inquiries, collaborations, or educational initiatives, feel free to reach out.
+
+- Email: [rodrigo.smtz@icloud.com](mailto:rodrigo.smtz@icloud.com)
+- ORCID: [0000-0002-5713-3053](https://orcid.org/0000-0002-5713-3053)
+- [Google Scholar](https://scholar.google.com/scholar?q=R.+Sánchez-Martínez+UNAM+polariton)
+- [Ars Mathematica](https://ro-smtz.github.io/ars-mathematica/)
 
 ## Contact
 
