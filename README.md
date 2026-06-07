@@ -58,8 +58,9 @@ I founded **[Ars Mathematica](https://ro-smtz.github.io/ars-mathematica)** in 20
 ---
 
 ## Contact
+## Contact
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5713--3053-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5713-3053)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-R.%20Sánchez--Martínez-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=R.+Sánchez-Martínez+UNAM+polariton)
-[![Email](https://img.shields.io/badge/email-rodrigo.smtz@icloud.com-blue?logo=apple&logoColor=white)](mailto:rodrigo.smtz@icloud.com)
-[![Ars Mathematica](https://img.shields.io/badge/Ars%20Mathematica-website-8b5cf6)](https://ro-smtz.github.io/ars-mathematica/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5713--3053-24292e?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5713-3053)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-R.%20Sánchez--Martínez-24292e?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=R.+Sánchez-Martínez+UNAM+polariton)
+[![Email](https://img.shields.io/badge/Email-rodrigo.smtz@icloud.com-24292e?style=flat-square&logo=icloud&logoColor=white)](mailto:rodrigo.smtz@icloud.com)
+[![Ars Mathematica](https://img.shields.io/badge/Ars%20Mathematica-Website-24292e?style=flat-square&logo=read-the-docs&logoColor=white)](https://ro-smtz.github.io/ars-mathematica/)
