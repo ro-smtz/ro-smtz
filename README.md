@@ -34,8 +34,8 @@ Advisor: Dr. Giuseppe Pirruccio · Instituto de Física, UNAM (2024–present)
 |------|-------|---------|
 | 2025 | [Protecting intercavity polaritons in strongly coupled cavities](https://doi.org/10.1103/bbvd-gv9t) | *Phys. Rev. Applied* **24**, 034078 |
 | 2024 | [A new visual approach to pendulum period determination](https://arxiv.org/abs/2408.00201) | arXiv preprint |
-| 2020 | [Confined free motion under a dipole potential](https://doi.org/10.31349/RevMexFisE.17.272) | *Rev. Mex. Fís. E* **17** |
-| 2020 | [A geodesic approach for the harmonic oscillator](https://doi.org/10.31349/RevMexFisE.17.6) | *Rev. Mex. Fís. E* **17** |
+| 2020 | [Confined free motion under a dipole potential](https://doi.org/10.31349/RevMexFisE.17.272) | *Rev. Mex. Fís. E* **17 (2)** |
+| 2020 | [A geodesic approach for the harmonic oscillator](https://doi.org/10.31349/RevMexFisE.17.6) | *Rev. Mex. Fís. E* **17 (1)** |
 
 ---
 
