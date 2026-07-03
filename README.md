@@ -33,7 +33,7 @@ Advisor: Dr. Giuseppe Pirruccio · Instituto de Física, UNAM (2024–present)
 | Year | Title | Journal |
 |------|-------|---------|
 | 2026 | [A new visual approach to pendulum period determination](https://rmf.smf.mx/ojs/index.php/rmf-e/article/view/8518) | *Rev. Mex. Fís. E* **23** 020216 1–8 |
-| 2024 | [Macroscopic Coherence and Vorticity in a Room-Temperature Polariton Condensate Confined in a Self-Assembled Perovskite Microcavity]([https://arxiv.org/abs/2408.00201](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00428)) | *ACS Photonics* **13 (13)**, 3713–3722 |
+| 2024 | [Macroscopic Coherence and Vorticity in a Room-Temperature Polariton Condensate Confined in a Self-Assembled Perovskite Microcavity](https://pubs.acs.org/doi/10.1021/acsphotonics.6c00428) | *ACS Photonics* **13 (13)**, 3713–3722 |
 | 2025 | [Protecting intercavity polaritons in strongly coupled cavities](https://doi.org/10.1103/bbvd-gv9t) | *Phys. Rev. Applied* **24**, 034078 |
 | 2020 | [Confined free motion under a dipole potential](https://doi.org/10.31349/RevMexFisE.17.272) | *Rev. Mex. Fís. E* **17 (2)** |
 | 2020 | [A geodesic approach for the harmonic oscillator](https://doi.org/10.31349/RevMexFisE.17.6) | *Rev. Mex. Fís. E* **17 (1)** |
